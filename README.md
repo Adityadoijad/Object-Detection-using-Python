@@ -25,17 +25,13 @@ To set up the project, follow these steps:
 3. **Download YOLO Model Files:**
    - [`yolov3.cfg`](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
    - [`coco.names`](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
-   - [`yolov3.weights`](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights) *(Download separately and place it in the project directory)*
-
+   - [`yolov3.weights`](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights)
+     
 4. **Run the Object Detection Script:**
    ```bash
    python script.py
    ```
-
-## 📸 Example Output
-![Example Image](example.jpg)  
-*(Replace `example.jpg` with your actual result image)*
-
+   
 ## 🚀 Future Improvements
 - ✅ Implement YOLOv4 for better accuracy
 - ✅ Improve real-time detection speed
