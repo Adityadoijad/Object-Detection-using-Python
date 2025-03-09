@@ -23,9 +23,9 @@ To set up the project, follow these steps:
    ```
 
 3. **Download YOLO Model Files:**
-   - `yolov3.cfg`
-   - `yolov3.weights`
-   - `coco.names`
+   - [`yolov3.cfg`](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
+   - [`coco.names`](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
+   - [`yolov3.weights`](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights) 
 
 4. **Run the Object Detection Script:**
    ```bash
@@ -44,3 +44,4 @@ To set up the project, follow these steps:
 
 ---
 Feel free to contribute or suggest improvements! 🚀
+
