@@ -8,7 +8,7 @@ This project uses **OpenCV** and **YOLOv3** to perform real-time object detectio
 - ✔ Uses **YOLO deep learning model** for fast and accurate detection
 - ✔ Works with both images and real-time webcam feed
 
-## 🔧 Installation
+## 🛠️ Installation
 To set up the project, follow these steps:
 
 1. **Clone the Repository:**
@@ -32,7 +32,7 @@ To set up the project, follow these steps:
    python script.py
    ```
 
-## 🛠️ Usage
+## 🫠 Usage
 ### Run Object Detection on an Image
 1. Place your test image (e.g., `test.jpg`) in the project directory.
 2. Run the following command:
@@ -60,6 +60,8 @@ To set up the project, follow these steps:
 ### Adjusting Confidence and Threshold
 If you want to fine-tune the detection results, modify the `CONFIDENCE_THRESHOLD` and `NMS_THRESHOLD` values in the script.
 
+## 📸 Example Output
+![Example Output](Screenshot%202025-03-10%20153025.png)
 
 ## 🚀 Future Improvements
 - ✅ Implement YOLOv4 for better accuracy
