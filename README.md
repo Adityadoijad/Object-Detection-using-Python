@@ -1,4 +1,4 @@
-# OpenCV Object Detection with YOLO 🚀
+# Object Detection using Python 🚀
 
 ## 📌 Description
 This project uses **OpenCV** and **YOLOv3** to perform real-time object detection on images and videos. It leverages deep learning models to accurately detect multiple objects within an image.
